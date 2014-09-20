@@ -15,15 +15,21 @@ body{
   
    display:block;
    padding:5px;
+   position:absolute; 
     
-    margin-top:-10px;
+    margin-top:-2010px;
     margin-left:-10px;
     margin-right:-10px;
-    
- //border: 1 solid #66cdaa;
+    width:100%;
+ 	border: 1px solid ;
     }
     
-    
+ #navlist{
+ 
+ position:absolute; 
+ display:none;
+transition:.5s linear
+ }
 .headercontent{
     
     
@@ -68,12 +74,16 @@ body{
  	background-image: url(http://soft29.com/images/screenshots/MatrixMania-b.jpg);
 	border: 1px solid red; 
 	height: 1300px;
+	margin-top:-1000px;
+	position: absolute;
 	}
 
 #pic1{
 	background-image: url(http://img.bz1111.com/d7/2011-4/2011449141.jpg);
-	 border: 1px solid red;
-	 margin-top: 100px; 
+	 width:110%;
+	 margin-left:-20px;
+	 margin-top: -1800px;
+	 position: absolute; 
  	
 
 
@@ -88,15 +98,14 @@ body{
 	
 }
 
-#headerleft ul{
-display:none;
-transition:.5s linear 
-}
+
 #headerleft:hover > ul{
 display:block;
-transition:.5s linear; 
+margin-top:-10px;
+width:200px; 
+transition:.5s linear;
 position: absolute; 
-border:1px solid; 
+//border:1px solid; 
     
 
 
@@ -152,6 +161,7 @@ a {
 	color: white;
 	font-family:'Arvo', serif;
 	border:1px solid red;
+	margin-top:2000px;
 	
  
  

@@ -1,5 +1,6 @@
 /**
- *
+ * The first commented line is your dabblet’s title
+ */
  
 /**{
     border:1 solid green;
@@ -8,15 +9,15 @@
 body{
 	background-color:black;}
 #header{
-    height:250px;
+    height:300px;
     /*background-color: #0a0a0a;*/
-    background: linear-gradient(180deg, #000000, #0a0a22);
-  
+    background-image:url("http://fc06.deviantart.net/fs70/i/2011/347/6/f/grey_tiled_background_by_zacherygangrel-d4izztc.jpg");
+ 	background-size: 100px, 100px; 
    display:block;
    padding:5px;
    position:absolute; 
-    
-    margin-top:-3900px;
+ 
+    margin-top:-4200px;
     margin-left:-10px;
     margin-right:-10px;
     width:100%;
@@ -34,7 +35,7 @@ transition:.5s linear
     
     font-size:30px;
     
-    color:#dddddd;
+    color: #ddddd;
     font-family: 'Arvo', serif;
     
     
@@ -60,8 +61,7 @@ transition:.5s linear
     float:right;
  
     margin-right: 5%;
-    border:1px solid
- 
+     
     
     }
  # header ul{
@@ -137,7 +137,7 @@ padding-top: -50px;
 	font-size:30px;
     font-family:'Arvo', serif;
     display: block;
-    
+   
     padding-left: 40%;
     //border: 1px solid;
     
@@ -156,10 +156,12 @@ padding-top: -50px;
 
 
 #pic1{
-	background-image: url(http://img.bz1111.com/d7/2011-4/2011449141.jpg);
+	background-image: url(http://images2.layoutsparks.com/1/159245/grey-day-variety-design.jpg);
+	 background-size: 100% 1000px;
+    background-repeat: no-repeat;
 	 width:110%;
 	 margin-left:-20px;
-	 margin-top: 300px;
+	 margin-top: 280px;
 	 position: relative; 
 
 }
@@ -171,7 +173,7 @@ height:500px;
 font-family:'Arvo', serif;
 
 
-border:1px solid; 
+//border:1px solid; 
 
 
 }
@@ -179,11 +181,11 @@ border:1px solid;
 font-size:40px; 
 margin-left: 40%;
 margin-top:50px;
-border:1px solid;  
+//border:1px solid;  
 
 }
 #IntroContent{
-border:1px solid;
+
 height:400px;
 width:70%;
 margin-left: 15%;
@@ -192,10 +194,11 @@ margin-top:10px;
 
 }
 #pic2{
- 	background-image: url(http://soft29.com/images/screenshots/MatrixMania-b.jpg);
+ 	background: #dddddd;
 	border: 1px solid red; 
 	height: 1300px;
-	margin-top:0px;
+	color: black; 
+	margin-top:300px;
 	width:110%;
 	position: relative;
 	}
@@ -224,7 +227,7 @@ a {
     margin-right:-1%;
 	color: white;
 	font-family:'Arvo', serif;
-	border:1px solid red;
+	
 	margin-top:0000px;
 	
 	

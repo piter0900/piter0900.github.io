@@ -2,6 +2,10 @@
  * The first commented line is your dabblet’s title
  */
  
+/**
+ * The first commented line is your dabblet’s title
+ */
+ 
 /**{
     border:1 solid green;
     
@@ -17,7 +21,7 @@ body{
    padding:5px;
    position:absolute; 
  
-    margin-top:-4200px;
+    margin-top:-2450px;
     margin-left:-10px;
     margin-right:-10px;
     width:100%;
@@ -44,14 +48,14 @@ transition:.5s linear
     position:absolute;
     float:left;
     margin-left:30px;
-    margin-top:160px;
-    width: 200px; 
+    margin-top:210px;
+    width: 200px;
+    color: #cccccc 
     
     }
  #headermark{
- margin-left:30%;
- margin-top:150px;
- border:1px solid; 
+ margin-left:35%;
+ margin-top:150px; 
  
  
  }
@@ -79,7 +83,8 @@ display:block;
 margin-top:-10px;
 width:200px; 
 transition:.5s linear;
-position: absolute; 
+position: absolute;
+color: #777777;  
 //border:1px solid; 
     
 
@@ -97,7 +102,7 @@ position: absolute;
     position:relative;
     margin-left:-40px;
     padding-right:20px; 
-  
+  	
     
 
 
@@ -108,7 +113,7 @@ position: absolute;
     margin-right:10%;
     margin-left:-20px; 
     width:100%; 
-    color:hsl(0, 80%, 60%);  
+    color:black;  
     }
 #headercenter{
 display:block;
@@ -156,13 +161,14 @@ padding-top: -50px;
 
 
 #pic1{
-	background-image: url(http://images2.layoutsparks.com/1/159245/grey-day-variety-design.jpg);
-	 background-size: 100% 1000px;
-    background-repeat: no-repeat;
+	background-image: url(http://mag.splashnology.com/uploads/images/00/05/63/2011/03/03/7ded01.jpg);
+	 background-size: 100px, 100px;
+    
 	 width:110%;
 	 margin-left:-20px;
 	 margin-top: 280px;
-	 position: relative; 
+	 position: relative;
+	  
 
 }
 #Intro{
@@ -171,7 +177,7 @@ margin-top:200px;
 padding-top:50px;
 height:500px;
 font-family:'Arvo', serif;
-
+color: black; 
 
 //border:1px solid; 
 
@@ -199,15 +205,9 @@ margin-top:10px;
 	height: 1300px;
 	color: black; 
 	margin-top:300px;
-	width:110%;
+	width:100%;
 	position: relative;
 	}
-#pic3{
-	background-image: url(http://www.picturesnew.com/media/images/simple-background-new.jpg)	
-	}
-#pic4{
-	background-image: url(http://wallpaperswa.com/thumbnails/detail/20131221/music%20circle%20of%20fifths_wallpaperswa.com_13.jpg)
-}
 
 
 a {

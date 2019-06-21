@@ -1,6 +1,17 @@
-body{background-color:white;}
-#header{
-    height:300px;
+body{
+	background-color:white; color:#525c65;
 }
-    
+.header{
+    height:300px;
+
+}
+.header-logo-img{
+	height:60px;
+}
+.header-login{
+	margin-right:1vw;
+}
+.info-pane{
+	background-color:;
+}
  

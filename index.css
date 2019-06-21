@@ -13,7 +13,9 @@ body{
 	margin-right:10vw;
 	float:right;
 }
+
 .info-pane{
-	background-color:;
+	background-color:blue;
+	opacity:0.3;
 }
  
